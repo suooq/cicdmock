@@ -17,4 +17,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.TOKEN_MOCK }}
           branch: gh-pages # The branch the action should deploy to.
-          folder: build # The folder the action should deploy.
+          folder: ./ # The folder the action should deploy.
