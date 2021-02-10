@@ -1,0 +1,14 @@
+{
+  "name": "cicdmock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/suooq/cicdmock.git",
+  "author": "zhangbm <zhangbm@yozosoft.io>",
+  "license": "MIT",
+  "scripts": {
+    "less": "lessc ./main.less main.css"
+  },
+  "devDependencies": {
+    "less": "^4.1.1"
+  }
+}
