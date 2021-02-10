@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/suooq/cicdmock.git",
-  "homepage": "https://suooq.github.io/github-demo",
+  "homepage": "https://suooq.github.io/cicdmock",
   "author": "zhangbm <zhangbm@yozosoft.io>",
   "license": "MIT",
   "scripts": {
